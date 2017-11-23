@@ -1,0 +1,5 @@
+C:\Users\klein-desk\Documents\Visual Studio 2017\Projects\ChatFeed\ChatMessage\bin\Release\ChatMessage.dll
+C:\Users\klein-desk\Documents\Visual Studio 2017\Projects\ChatFeed\ChatMessage\bin\Release\ChatMessage.pdb
+C:\Users\klein-desk\Documents\Visual Studio 2017\Projects\ChatFeed\ChatMessage\obj\Release\ChatMessage.csproj.CoreCompileInputs.cache
+C:\Users\klein-desk\Documents\Visual Studio 2017\Projects\ChatFeed\ChatMessage\obj\Release\ChatMessage.dll
+C:\Users\klein-desk\Documents\Visual Studio 2017\Projects\ChatFeed\ChatMessage\obj\Release\ChatMessage.pdb
